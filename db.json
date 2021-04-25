@@ -31,7 +31,7 @@
       "id": 3,
       "name": "Napolitana",
       "price": 15,
-      "ingredients": ["Molho, muçarela, tomates, parmesão, azeitonas, orégano"],
+      "ingredients": ["Molho , muçarela, tomates, parmesão, azeitonas, orégano"],
       "image":
         "https://firebasestorage.googleapis.com/v0/b/pizza-images-5d21e.appspot.com/o/napolitana.png?alt=media&token=7bead6bb-d01a-4622-9a56-d100891fdd88",
       "linked": [0, 2, 4]
@@ -40,13 +40,11 @@
       "id": 4,
       "name": "Pizza Vegetariana",
       "price": 20,
-      "ingredients": [
-        "Molho, muçarela, brócolis, palmito, tomate, champignon, cebola, orégano",
-      ],
+      "ingredients": ["Molho, muçarela, brócolis, palmito, tomate, champignon, cebola, orégano"],
       "image":
         "https://firebasestorage.googleapis.com/v0/b/pizza-images-5d21e.appspot.com/o/frango-com-catupiry.png?alt=media&token=0d5995c2-aae1-44b2-8e88-01a9a51d7d40",
       "linked": [3]
-    },
+    }
   ],
   "sizes": [
     {
