@@ -2,6 +2,7 @@
   "flavors": [
     {
       "id": 0,
+      "slug": "calabresa",
       "name": "Calabresa",
       "price": 15,
       "ingredients": ["Molho, muçarela, calabresa, cebola, orégano"],
@@ -11,6 +12,7 @@
     },
     {
       "id": 1,
+      "slug": "marguerita",
       "name": "Marguerita",
       "price": 15,
       "ingredients": ["Molho, muçarela, tomates, manjericão"],
@@ -20,6 +22,7 @@
     },
     {
       "id": 2,
+      "slug": "mucarela",
       "name": "Muçarela",
       "price": 15,
       "ingredients": ["Molho,muçarela, tomate, orégano"],
@@ -29,6 +32,7 @@
     },
     {
       "id": 3,
+      "slug": "napolitana",
       "name": "Napolitana",
       "price": 15,
       "ingredients": ["Molho , muçarela, tomates, parmesão, azeitonas, orégano"],
@@ -38,6 +42,7 @@
     },
     {
       "id": 4,
+      "slug": "pizza-vegetariana",
       "name": "Pizza Vegetariana",
       "price": 20,
       "ingredients": ["Molho, muçarela, brócolis, palmito, tomate, champignon, cebola, orégano"],
