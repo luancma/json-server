@@ -4,7 +4,7 @@
             "id": 0,
             "slug": "calabresa",
             "name": "Calabresa",
-            "price": 15,
+            "price": 8,
             "ingredients": [
                 "Molho, muçarela, calabresa, cebola, orégano"
             ],
@@ -19,7 +19,7 @@
             "id": 2,
             "slug": "mucarela",
             "name": "Muçarela",
-            "price": 15,
+            "price": 10,
             "ingredients": [
                 "Molho,muçarela, tomate, orégano"
             ],
@@ -31,16 +31,18 @@
             ]
         },
         {
-            "id": 4,
-            "slug": "pizza-vegetariana",
-            "name": "Pizza Vegetariana",
+            "id": 7,
+            "slug": "tomates-secos-com-rucula",
+            "name": "Tomates Secos com Rúcula",
             "price": 20,
             "ingredients": [
-                "Molho, muçarela, brócolis, palmito, tomate, champignon, cebola, orégano"
+                "Molho, muçarela, tomates secos, rúcula e orégano."
             ],
-            "image": "https://firebasestorage.googleapis.com/v0/b/pizza-images-5d21e.appspot.com/o/frango-com-catupiry.png?alt=media&token=0d5995c2-aae1-44b2-8e88-01a9a51d7d40",
+            "image": "https://firebasestorage.googleapis.com/v0/b/pizza-images-5d21e.appspot.com/o/34-palmito1.png?alt=media&token=fab92a69-8b1a-4b10-834e-1bb96307687e",
             "linked": [
-                3
+                4,
+                5,
+                6
             ]
         }
     ],
