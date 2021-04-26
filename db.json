@@ -32,13 +32,13 @@
         },
         {
             "id": 7,
-            "slug": "tomates-secos-com-rucula",
+            "slug": "tomates-rucula",
             "name": "Tomates Secos com Rúcula",
             "price": 20,
             "ingredients": [
                 "Molho, muçarela, tomates secos, rúcula e orégano."
             ],
-            "image": "https://firebasestorage.googleapis.com/v0/b/pizza-images-5d21e.appspot.com/o/34-palmito1.png?alt=media&token=fab92a69-8b1a-4b10-834e-1bb96307687e",
+            "image": "https://firebasestorage.googleapis.com/v0/b/pizza-images-5d21e.appspot.com/o/tomates-secos.png?alt=media&token=35099a82-95f3-4bdf-8f3a-e3ebac07a26a",
             "linked": [
                 4,
                 5,
