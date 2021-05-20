@@ -1,10 +1,7 @@
 {
     "pizzas": {
         "daily": [
-            2,
-            3,
-            7,
-            5
+            2
         ],
         "flavors": [
             {
@@ -186,7 +183,7 @@
         {
             "id": 1,
             "name": "Usuário Teste",
-            "points": 0
+            "points": 50
         }
     ]
 }
