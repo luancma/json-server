@@ -182,9 +182,11 @@
             }
         ]
     },
-    "users": {
-        "id": 1,
-        "name": "Usuário Teste",
-        "points": 0
-    }
+    "users": [
+        {
+            "id": 1,
+            "name": "Usuário Teste",
+            "points": 0
+        }
+    ]
 }
