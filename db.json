@@ -1,4 +1,6 @@
 
 {
-  "status": "aberto"
+  "tasks": [{
+    "status": "aberto"
+  }]
 }
