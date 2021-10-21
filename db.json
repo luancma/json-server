@@ -2,17 +2,26 @@
   "orders": [
     {
       "id": 1,
-      "title": "dasddsadsdsadsadsds",
-      "status": "in_progress"
+     "description": "doaskdosa",
+      "aaa": true,
+      "title": "title 1",
+      "details": "dasdsdsadas",
+      "status": "open",
     },
     {
       "id": 2,
-      "title": "Chamados de 30 segundos",
-      "status": "closed"
+     "description": "doaskdosa",
+      "aaa": true,
+      "title": "title 1",
+      "details": "dasdsdsadas",
+      "status": "open",
     },
     {
       "id": 3,
-      "title": "Chamados de dadasd dsadsdas",
+      "description": "doaskdosa",
+      "aaa": true,
+      "title": "title 1",
+      "details": "dasdsdsadas",
       "status": "closed"
     },
     {
